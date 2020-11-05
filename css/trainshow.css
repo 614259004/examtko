@@ -1,0 +1,48 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: #272727;
+}
+
+table{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 2%;
+    background-color: #fff;
+    border-radius: 7px;
+}
+
+#row1{
+    background-color: #ea8e29 ;
+    text-align: center;
+    height: 30px;
+    color: #fff;
+}
+
+#row2 td{
+padding: 10px 20px;
+}
+
+#row2 td:hover{
+    background-color:#ffad55;
+    color: #fff;
+}
+
+.add-button{
+    margin-left: 25%;
+    margin-top: 7%;
+}
+
+.add-button a{
+    padding: 10px 20px;
+    text-decoration:none;
+    color: #ea8e29;
+    border:2px solid #ea8e29;
+    border-radius: 24px;
+}
+
+.add-button a:hover{
+    background-color: #ea8e29;
+    color: #fff;
+    box-shadow:0 0 20px #ea8e29;
+}
